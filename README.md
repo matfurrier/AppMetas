@@ -117,6 +117,8 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` p
 
 Mateus Furrier - matfurrier@gmail.com
 
+Linkedin: [https://www.linkedin.com/in/mateusfurrier/](https://www.linkedin.com/in/mateusfurrier/)
+
 Link do Projeto: [https://github.com/matfurrier/AppMetas](https://github.com/matfurrier/AppMetas)
 
 Sinta-se à vontade para entrar em contato com qualquer dúvida, sugestão ou elogio. 
