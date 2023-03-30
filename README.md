@@ -117,9 +117,10 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` p
 
 Mateus Furrier - matfurrier@gmail.com
 
-Link do Projeto: [https://github.com/matfurrier/AppMetaNew](https://github.com/matfurrier/AppMetaNew)
+Link do Projeto: [https://github.com/matfurrier/AppMetas](https://github.com/matfurrier/AppMetas)
 
 Sinta-se à vontade para entrar em contato com qualquer dúvida, sugestão ou elogio. 
+
 E não se esqueça de ⭐️ este projeto para ajudar a divulgá-lo! 😄
 
 
