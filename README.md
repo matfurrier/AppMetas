@@ -32,7 +32,7 @@ As seguintes tecnologias foram utilizadas no desenvolvimento deste projeto:
 
 ### Pré-requisitos
 
-Certifique-se de ter o Node.js (versão recomendada) e npm instalados em sua máquina antes de seguir os próximos passos.
+Certifique-se de ter o Node.js e NPM instalados em sua máquina antes de seguir os próximos passos.
 
 ### Passo a passo
 
