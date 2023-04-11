@@ -32,7 +32,11 @@ As seguintes tecnologias foram utilizadas no desenvolvimento deste projeto:
 
 ### Pré-requisitos
 
-Certifique-se de ter o Node.js e npm instalados.
+Certifique-se de ter o Node.js (versão recomendada) e npm instalados em sua máquina antes de seguir os próximos passos.
+
+### Passo a passo
+
+Siga os passos abaixo para configurar e executar o projeto localmente:
 
 ## 🎮 Uso
 
@@ -87,7 +91,20 @@ Para utilizar o Metas APP, siga os passos abaixo:
 ![MetasdoDepartamento](https://user-images.githubusercontent.com/30526394/228895021-7e72edb1-4a6d-42f4-8e7b-688ddc34b1cf.png)
 ![PDFDepartmentGoal](https://user-images.githubusercontent.com/30526394/228896399-8eddb6b2-e6e5-4351-9e1c-eb10fbb27f88.png)
 
-9. Demais telas de cadastros para administradores.
+9. Avaliação de Metas
+
+O botão "AVALIAR". Ao final do ano francês, este botão estará disponível para o gestor da área, permitindo que ele avalie se os colaboradores de seu time atingiram as metas propostas ou não. Isso facilita o processo de análise do desempenho dos colaboradores, auxiliando na tomada de decisões e no planejamento das metas para o próximo ano francês.
+
+![Avaliar](https://user-images.githubusercontent.com/30526394/231195186-b6fb85cc-b3ff-4d06-bf1c-0d5c3669e035.png)
+
+O gestor poderá verificar cada meta, analisar os resultados alcançados e, em seguida, clicar no botão "AVALIAR" para confirmar se a meta foi atingida ou não. Após a avaliação de todas as metas, o gestor terá uma visão geral do desempenho de sua equipe, facilitando a análise e o planejamento para o próximo período.
+
+![AvaliacaoMeta](https://user-images.githubusercontent.com/30526394/231195182-51292975-ea4c-49bd-bf73-c8641d86ac6d.png)
+
+Quando uma meta for avaliada, o colaborador poderá verificar o percentual atingido e a justificativa.
+![DetalhesMetasAvaliada](https://user-images.githubusercontent.com/30526394/231191773-473dbcd3-9e2c-41c4-8705-0f1b79120ed6.png)
+
+10. Demais telas de cadastros para administradores.
 
 Usuários:
 ![Users](https://user-images.githubusercontent.com/30526394/228895037-b05d37cb-7ffd-4e83-97a7-8af5819538ff.png)
@@ -117,12 +134,11 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` p
 
 Mateus Furrier - matfurrier@gmail.com
 
-Linkedin: [https://www.linkedin.com/in/mateusfurrier/](https://www.linkedin.com/in/mateusfurrier/)
+Link do Projeto: [https://github.com/matfurrier/AppMetaNew](https://github.com/matfurrier/AppMetaNew)
 
-Link do Projeto: [https://github.com/matfurrier/AppMetas](https://github.com/matfurrier/AppMetas)
+Sinta-se à vontade para entrar em contato com qualquer dúvida, sugestão ou elogio. E não se esqueça de ⭐️ este projeto para ajudar a divulgá-lo! 😄
 
-Sinta-se à vontade para entrar em contato com qualquer dúvida, sugestão ou elogio. 
 
-E não se esqueça de ⭐️ este projeto para ajudar a divulgá-lo! 😄
+# AppMetaDS
 
 
